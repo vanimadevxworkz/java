@@ -1,0 +1,23 @@
+JAVA COMPONENTS
+*JDK(JAVA DEVELOPMENT KIT)
+*JRE(JAVA RUNTIME ENVIRONMENT)
+*JVM(JAVA VIRTUAL MACHINE)
+   
+JDK:*LTS(long term support)
+     *java 1.8 version is stable version
+     *it contains JRE JVM and setup lib/jar documentations
+     *it exist physically
+     *minimal requirement to write and compiling java programe
+
+JRE:*It is a software package which consist the lib and jvm and other components to run application written in java
+   *to execute any application
+   *it is minimum requirement to execute java application on any machine
+   *jvm is ajust a part of jre
+
+JVM:*Execute over a program 
+  *to convert byte code into machine understandable code
+  *it is a platfoem independent
+  *it is a provided by jre
+  *act as run time engine to run java application
+
+

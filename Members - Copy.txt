@@ -1,0 +1,7 @@
+class Members{
+  public static void main(string vani[]}
+  System.out.println("Madev");
+  System.out.println("Savita");
+  System.out.println("Hita");
+  System.out.println("Bhavya");
+  System.out.println("Tejas");
